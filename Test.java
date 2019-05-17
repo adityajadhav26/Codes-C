@@ -1,4 +1,5 @@
 // static members flow using JVM( virtual OS)
+// added some comments
 
 class Test{
 	static{
